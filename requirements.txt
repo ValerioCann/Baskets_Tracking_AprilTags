@@ -1,5 +1,0 @@
-numpy==1.26.4
-requests==2.32.3
-opencv-contrib-python==4.8.1.78
-ultralytics==8.3.0
-pupil_apriltags==1.0.4post10
